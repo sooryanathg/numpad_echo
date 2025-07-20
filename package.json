@@ -1,7 +1,7 @@
 {
   "name": "numpad_echo",
   "version": "0.1.0",
-  "homepage": "https://github.com/sooryanathg/numpad_echo",
+  "homepage": "https://sooryanathg.github.io/numpad_echo/",
   "description": "A React-based sound game that uses a numpad for input.",
   "private": true,
   "dependencies": {
