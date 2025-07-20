@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sooryanathg/numpad_echo/static/css/main.0d9de05d.css",
-    "main.js": "/sooryanathg/numpad_echo/static/js/main.e298e3e9.js",
-    "static/js/453.e002f11a.chunk.js": "/sooryanathg/numpad_echo/static/js/453.e002f11a.chunk.js",
-    "index.html": "/sooryanathg/numpad_echo/index.html",
-    "main.0d9de05d.css.map": "/sooryanathg/numpad_echo/static/css/main.0d9de05d.css.map",
-    "main.e298e3e9.js.map": "/sooryanathg/numpad_echo/static/js/main.e298e3e9.js.map",
-    "453.e002f11a.chunk.js.map": "/sooryanathg/numpad_echo/static/js/453.e002f11a.chunk.js.map"
+    "main.css": "/numpad_echo/static/css/main.0d9de05d.css",
+    "main.js": "/numpad_echo/static/js/main.31f9dc47.js",
+    "static/js/453.e002f11a.chunk.js": "/numpad_echo/static/js/453.e002f11a.chunk.js",
+    "index.html": "/numpad_echo/index.html",
+    "main.0d9de05d.css.map": "/numpad_echo/static/css/main.0d9de05d.css.map",
+    "main.31f9dc47.js.map": "/numpad_echo/static/js/main.31f9dc47.js.map",
+    "453.e002f11a.chunk.js.map": "/numpad_echo/static/js/453.e002f11a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d9de05d.css",
-    "static/js/main.e298e3e9.js"
+    "static/js/main.31f9dc47.js"
   ]
 }
